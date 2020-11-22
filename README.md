@@ -8,5 +8,5 @@ Gene Eagle and Matt Downing
 
 # Instructions on how to use this repo
 1. Download the repo
-2. Install needed python lobraries from requirements.txt
+2. Install needed python libraries from requirements.txt
 3. Run python notebook
