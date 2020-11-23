@@ -1,13 +1,13 @@
-## Deep Learning Project 2: Explainable AI
+# Deep Learning Project 2: Explainable AI
 Gene Eagle and Matt Downing
 
-# What is in this repo?
+## What is in this repo?
 - [XAI Write Up](https://github.com/mddown/Deep-Learning-proj2/blob/main/XAI%20write%20up.pdf)
 - [python notebook](https://github.com/mddown/Deep-Learning-proj2/blob/main/covid-cxr.ipynb)
     - notebook contains LIME replication results (task #1) and SHAP results (task #3)
     - notebook also contains write up and observations on resutls
 
-# Instructions on how to use this repo
+## Instructions on how to use this repo
 1. Clone this repository (for help see this
    [tutorial](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)).
 2. Install the necessary dependencies (listed in
