@@ -44,13 +44,13 @@ Gene Eagle and Matt Downing
 
     Optionally, you can directly execute the following scripts to perform LIME and GRADCAM  evaluations.
 
-- Execute [_train.py_](src/train.py) to train the neural network model.
+    - Execute [_train.py_](src/train.py) to train the neural network model.
    The trained model weights will be saved within _results/models/_, and
    its filename will resemble the following structure:
    modelyyyymmdd-hhmmss.h5, where yyyymmdd-hhmmss is the current time.
    The [TensorBoard](https://www.tensorflow.org/tensorboard) log files
    will be saved within _results/logs/training/_.
-- In [config.yml](config.yml), set _MODEL_TO_LOAD_ within _PATHS_ to
+    - In [config.yml](config.yml), set _MODEL_TO_LOAD_ within _PATHS_ to
    the path of the model weights file that was generated in step 6 (for
    help see [Project Config](#project-config)). Execute
    [_lime_explain.py_](src/interpretability/lime_explain.py) to generate
