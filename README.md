@@ -5,6 +5,7 @@ Gene Eagle and Matt Downing
 - [XAI Write Up](https://github.com/mddown/Deep-Learning-proj2/blob/main/XAI%20write%20up.pdf)
 - [python notebook](https://github.com/mddown/Deep-Learning-proj2/blob/main/covid-cxr.ipynb)
     - notebook contains LIME replication results (task #1) and SHAP results (task #3)
+    - notebook also contains write up and observations on resutls
 
 # Instructions on how to use this repo
 1. Download the repo
