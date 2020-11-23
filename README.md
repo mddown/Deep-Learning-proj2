@@ -52,3 +52,6 @@ Gene Eagle and Matt Downing
    [_lime_explain.py_](src/interpretability/lime_explain.py) to generate
    interpretable explanations for the model's predictions on the test
    set. See more details in the [LIME Section](#lime).
+
+   ## Acknowledgements
+   The starting code of this repository is based on the [Covid-19 Chest X-Ray Model repository](https://github.com/aildnont/covid-cxr), which provides the core code platform used for the evaluation. The SHAP implementation is based on the following [repository](https://github.com/slundberg/shap).
