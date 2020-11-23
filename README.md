@@ -42,7 +42,7 @@ Gene Eagle and Matt Downing
    _data/preprocessed/_.
 8. Refer to the file covid-cxr.ipynb for a step by step flow of data training followed by LIME, GRADCAM, and SHAP evaluations. The notebook is a wrapper on the lower levels python scripts and can be used directly for running them. Additionally, the file config.yml facilitates configuring the parameters used by the python scripts; in the notebook, specific settings of the parameters are set as can be seen in the files config_class_weights.yml and config_random_oversample.yml.  
 
-Optionally, you can directly execute the following scripts to perform LIME and GRADCAM  evaluations.
+    Optionally, you can directly execute the following scripts to perform LIME and GRADCAM  evaluations.
 
 - Execute [_train.py_](src/train.py) to train the neural network model.
    The trained model weights will be saved within _results/models/_, and
